@@ -1,2 +1,2 @@
 # Customer-churn-prediction
-to predict behavior to retain customers
+To predict behavior to retain customers
